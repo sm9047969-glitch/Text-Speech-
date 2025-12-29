@@ -1,0 +1,7 @@
+{
+  "name": "Mr. Ajay Voice - Premium Hindi TTS",
+  "description": "Professional-grade Hindi Text-to-Speech platform with human-like AI voices, emotion controls, and advanced studio features.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
